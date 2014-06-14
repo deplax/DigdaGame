@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\bin\Debug\Digda.exe.config
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\bin\Debug\Digda.exe
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\bin\Debug\Digda.pdb
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\obj\Debug\Digda.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\obj\Debug\Digda.Form1.resources
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\obj\Debug\Digda.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\obj\Debug\Digda.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\obj\Debug\Digda.exe
+C:\Users\Administrator\Documents\GitHub\Digda\Digda\Digda\obj\Debug\Digda.pdb

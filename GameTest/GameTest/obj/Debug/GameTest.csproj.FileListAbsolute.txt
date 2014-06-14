@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\Digda\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\Administrator\Documents\GitHub\Digda\GameTest\GameTest\obj\Debug\GameTest.Form1.resources
+C:\Users\Administrator\Documents\GitHub\Digda\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Digda\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.Cache

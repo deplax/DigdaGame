@@ -37,6 +37,7 @@ namespace Digda
 
 	        //g.Dispose();
 
+	        //깃을 위한 테스트
 
 	        Graphics g = this.CreateGraphics();
 	        Bitmap b1 = Properties.Resources.test01;
